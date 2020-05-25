@@ -79,6 +79,12 @@ h1{
     font-size:31px;
     color:gray;
 }
+.bstyle
+{
+    background-color: blue;
+    margin-left:950px;
+    border-radius: 5px;
+}
 
 
 
